@@ -1,0 +1,18 @@
+- sistem adalah kumpulan entitas yang dibentuk dan saling bekerjasama untuk mencapai sesuatu
+- informasi adalah data yang diolah menjadi sesuatu yang berarti
+- data adalah bentuk jamak dan data adalah fakta
+- geografis adalah posisi(grafis) bumi(geo)
+- gis adalah suatu aplikasi yang akan menjelaskan posisi objek yang ada dibumi
+- jenis data ada grafis dan non grafis 
+	contoh grafis :
+	- vektor(peta-peta garis)
+	- raster(peta-peta gambar, citra satelit, satelit quickbird punya google 1px 0,5mx0,5m, ikonos 1px 1mx1m, landset 1px 30mx30m)) 
+	contoh non grafis
+- grafis merujuk pada koordinat UTM-48(bujur timur bujur barat), WGS/World Geografic System(pembagian bumi berdasarkan zona) co:WIB,WIT,WITA
+- titik sistem utama ada di inggris
+- titik nol indonesia ada di rs padang
+- manfaat gis : menentukan arah angin, arah laut
+- extension citra beda dgn foto
+- quickbird bandung ada 10 scene
+- tugas kita : mengubah pixel menjadi dinamis
+- vektor dan raster sudah digabung 
